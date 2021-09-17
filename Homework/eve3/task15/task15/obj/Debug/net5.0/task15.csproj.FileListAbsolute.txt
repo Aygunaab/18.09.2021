@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.exe
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.deps.json
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.dll
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\ref\task15.dll
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\bin\Debug\net5.0\task15.pdb
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.dll
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\ref\task15.dll
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.pdb
+C:\Users\Admin\OneDrive\Desktop\Tapsiriqlar\task15\task15\obj\Debug\net5.0\task15.genruntimeconfig.cache

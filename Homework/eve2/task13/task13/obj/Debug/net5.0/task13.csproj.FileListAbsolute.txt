@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.exe
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.deps.json
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.dll
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\ref\task13.dll
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\bin\Debug\net5.0\task13.pdb
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.dll
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\ref\task13.dll
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.pdb
+C:\Users\Admin\OneDrive\Desktop\18.09.2021Homework\eve2\task13\task13\obj\Debug\net5.0\task13.genruntimeconfig.cache
